@@ -2,7 +2,7 @@
 
 A tiny toy project for practicing the GitHub pull request workflow.
 
-## Whats included
+## What's included
 
 This repo contains a small Python utility with a function to greet people,
 plus a basic test for it.
